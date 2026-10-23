@@ -15,9 +15,9 @@ window.PORTAL_DATA = {
     {id:'guia-python',course:'mecatronica-computacional',title:'Ejemplo: práctica de programación en Python',topic:'Programación',type:'practica',url:'materiales/ejemplos/practica-ejemplo.pdf',date:'',demo:true},
     {id:'script-python',course:'mecatronica-computacional',title:'Ejemplo: código Python descargable',topic:'Programación',type:'codigo',url:'materiales/ejemplos/programa-ejemplo.py',date:'',demo:true}
   {
-  id: 'ia-clase-02',
+   id: 'ia-clase01',
   course: 'inteligencia-artificial',
-  title: 'Clase 02 — Agentes inteligentes',
+  title: 'Clase 01 — Introducción a la IA',
   topic: 'Unidad 1',
   type: 'presentacion',
   url: 'materiales/ia/IA_clase_1_Introduccion_IA.pdf',
